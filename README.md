@@ -1,4 +1,4 @@
-# Laravel File Manager
+# Laravel File Manager with Searching
 
 [![Latest Stable Version](https://poser.pugx.org/rashmiranjanrrs/laravel-file-manager/v/stable)](https://packagist.org/packages/rashmiranjanrrs/laravel-file-manager)
 [![Total Downloads](https://poser.pugx.org/rashmiranjanrrs/laravel-file-manager/downloads)](https://packagist.org/packages/rashmiranjanrrs/laravel-file-manager)
@@ -43,6 +43,7 @@
    * Preview for images
    * Viewing images
    * Full screen mode
+   * Search in files/folders
 * More operations (v.2):
    * Audio player (mp3, ogg, wav, aac), Video player (webm, mp4) - ([Plyr](https://github.com/sampotts/plyr))
    * Code editor - ([Code Mirror](https://github.com/codemirror/codemirror))
